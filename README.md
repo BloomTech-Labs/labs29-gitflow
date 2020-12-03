@@ -43,6 +43,5 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 7️⃣:** Open up your **Pull-request**. Now that you've resolved merge conflict and you're sure that your feature branch is up to date with main open up a pull-request:
   - ![pull-request1](https://tk-assets.lambdaschool.com/f7b3593f-00ab-4de6-a988-6afac8b49b25_ScreenShot2020-04-13at9.19.33AM.png)
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
-  - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
-
+  
 ### Bernie Durfee
