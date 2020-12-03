@@ -47,8 +47,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Ryan Hamblin
 
 ### Frank Fusco
-<<<<<<< HEAD
 
 ### John Thomas
-=======
->>>>>>> d272263f2ec655fea22c3b15c2da92577439a511
