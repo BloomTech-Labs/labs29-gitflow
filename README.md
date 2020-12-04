@@ -46,4 +46,8 @@ The following is a list of steps and instructions on how to complete this guided
   
 ### Frank Fusco
 ### Leslie Rodriguez
+
+### Greg Wilson
 ### Troy Amlee
+
+### Steven Lee
